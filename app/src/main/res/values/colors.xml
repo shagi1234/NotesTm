@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#007AFF</color>
+    <color name="inactive">#F9F9F9</color>
+    <color name="bg">#F2F2F6</color>
+    <color name="bg_e5">#E5E5E5</color>
+    <color name="text_color">#1C2121</color>
+    <color name="pressed_bg">#F2F2F6</color>
+    <color name="choose_font_active">#E6E6E7</color>
+    <color name="black">#FF000000</color>
+    <color name="red">#C30000</color>
+    <color name="black_50">#80000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
